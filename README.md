@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screen Shot
 
-![screenshot](C:\Users\melisa\Downloads\ss.jpeg)
+![screenshot](ss.jpeg)
 
 ## Available Scripts
 
